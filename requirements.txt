@@ -1,0 +1,11 @@
+flask
+scikit-learn
+pandas
+numpy
+joblib
+beautifulsoup4
+requests
+newspaper3k
+googletrans==4.0.0-rc1
+lxml
+nltk
